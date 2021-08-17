@@ -55,7 +55,7 @@
   <SubComponents>
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Trung c&#xf3; &#x111;&#x1eb9;p trai kh&#xf4;ng ?"/>
+        <Property name="text" type="java.lang.String" value="Trung c&#xf3; y&#xea;u Nhi kh&#xf4;ng ?"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="jButton1">
