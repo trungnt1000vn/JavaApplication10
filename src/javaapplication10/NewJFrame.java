@@ -33,7 +33,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Trung có đẹp trai không ?");
+        jLabel1.setText("Trung có yêu Nhi không ?");
 
         jButton1.setText("Có");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
